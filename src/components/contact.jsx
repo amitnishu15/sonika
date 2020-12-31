@@ -120,12 +120,12 @@ class Contact extends React.Component {
                         <ul>
                         <li>
                             <a
-                              href="https://www.facebook.com/profile.php?id=100002604443663"
+                              href="https://www.instagram.com/amitnishu15/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-linkedin"></i>
+                              <i class="fa fa-instagram" aria-hidden="true"></i>
                               </span>
                             </a>
                           </li>
