@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sonika/static/css/main.daa67793.chunk.css",
-    "main.js": "/sonika/static/js/main.f2f4fb2c.chunk.js",
-    "main.js.map": "/sonika/static/js/main.f2f4fb2c.chunk.js.map",
+    "main.js": "/sonika/static/js/main.95de427d.chunk.js",
+    "main.js.map": "/sonika/static/js/main.95de427d.chunk.js.map",
     "runtime-main.js": "/sonika/static/js/runtime-main.29c00107.js",
     "runtime-main.js.map": "/sonika/static/js/runtime-main.29c00107.js.map",
     "static/css/2.63147665.chunk.css": "/sonika/static/css/2.63147665.chunk.css",
     "static/js/2.991604a8.chunk.js": "/sonika/static/js/2.991604a8.chunk.js",
     "static/js/2.991604a8.chunk.js.map": "/sonika/static/js/2.991604a8.chunk.js.map",
     "index.html": "/sonika/index.html",
-    "precache-manifest.68b3f581ce028476d0280aedfa6b3d90.js": "/sonika/precache-manifest.68b3f581ce028476d0280aedfa6b3d90.js",
+    "precache-manifest.3e3d6367c73043e18100a95dff743c37.js": "/sonika/precache-manifest.3e3d6367c73043e18100a95dff743c37.js",
     "service-worker.js": "/sonika/service-worker.js",
     "static/css/2.63147665.chunk.css.map": "/sonika/static/css/2.63147665.chunk.css.map",
     "static/css/main.daa67793.chunk.css.map": "/sonika/static/css/main.daa67793.chunk.css.map",
@@ -58,6 +58,6 @@
     "static/css/2.63147665.chunk.css",
     "static/js/2.991604a8.chunk.js",
     "static/css/main.daa67793.chunk.css",
-    "static/js/main.f2f4fb2c.chunk.js"
+    "static/js/main.95de427d.chunk.js"
   ]
 }
