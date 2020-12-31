@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c03bdd6ff894541c0ea0ce105c07d61",
+    "revision": "f7fab4db279086529955b1045a931ae1",
     "url": "/sonika/index.html"
   },
   {
-    "revision": "138969dd68fc2e266b21",
+    "revision": "7232242dbcb1ee0b4b03",
     "url": "/sonika/static/css/2.63147665.chunk.css"
   },
   {
-    "revision": "aa7e0b1cf64688554a75",
+    "revision": "db3632836dc926ec3200",
     "url": "/sonika/static/css/main.daa67793.chunk.css"
   },
   {
-    "revision": "138969dd68fc2e266b21",
-    "url": "/sonika/static/js/2.9cb04a33.chunk.js"
+    "revision": "7232242dbcb1ee0b4b03",
+    "url": "/sonika/static/js/2.991604a8.chunk.js"
   },
   {
     "revision": "1a0968dc243fc785d05284e154e37292",
-    "url": "/sonika/static/js/2.9cb04a33.chunk.js.LICENSE.txt"
+    "url": "/sonika/static/js/2.991604a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa7e0b1cf64688554a75",
-    "url": "/sonika/static/js/main.002b6972.chunk.js"
+    "revision": "db3632836dc926ec3200",
+    "url": "/sonika/static/js/main.e30b7886.chunk.js"
   },
   {
-    "revision": "e97d4775e9039f45bddc",
-    "url": "/sonika/static/js/runtime-main.d164975f.js"
+    "revision": "5dd8553a3604ec7c08ca",
+    "url": "/sonika/static/js/runtime-main.29c00107.js"
   },
   {
     "revision": "ae94ddabd6f007b2fc4b3e332fd834b6",

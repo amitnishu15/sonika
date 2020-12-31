@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sonika/static/css/main.daa67793.chunk.css",
-    "main.js": "/sonika/static/js/main.002b6972.chunk.js",
-    "main.js.map": "/sonika/static/js/main.002b6972.chunk.js.map",
-    "runtime-main.js": "/sonika/static/js/runtime-main.d164975f.js",
-    "runtime-main.js.map": "/sonika/static/js/runtime-main.d164975f.js.map",
+    "main.js": "/sonika/static/js/main.e30b7886.chunk.js",
+    "main.js.map": "/sonika/static/js/main.e30b7886.chunk.js.map",
+    "runtime-main.js": "/sonika/static/js/runtime-main.29c00107.js",
+    "runtime-main.js.map": "/sonika/static/js/runtime-main.29c00107.js.map",
     "static/css/2.63147665.chunk.css": "/sonika/static/css/2.63147665.chunk.css",
-    "static/js/2.9cb04a33.chunk.js": "/sonika/static/js/2.9cb04a33.chunk.js",
-    "static/js/2.9cb04a33.chunk.js.map": "/sonika/static/js/2.9cb04a33.chunk.js.map",
+    "static/js/2.991604a8.chunk.js": "/sonika/static/js/2.991604a8.chunk.js",
+    "static/js/2.991604a8.chunk.js.map": "/sonika/static/js/2.991604a8.chunk.js.map",
     "index.html": "/sonika/index.html",
-    "precache-manifest.21f0137be780c8a1d55a87aff371708a.js": "/sonika/precache-manifest.21f0137be780c8a1d55a87aff371708a.js",
+    "precache-manifest.42614bb08ee0211d19dfdb50546dcc1a.js": "/sonika/precache-manifest.42614bb08ee0211d19dfdb50546dcc1a.js",
     "service-worker.js": "/sonika/service-worker.js",
     "static/css/2.63147665.chunk.css.map": "/sonika/static/css/2.63147665.chunk.css.map",
     "static/css/main.daa67793.chunk.css.map": "/sonika/static/css/main.daa67793.chunk.css.map",
-    "static/js/2.9cb04a33.chunk.js.LICENSE.txt": "/sonika/static/js/2.9cb04a33.chunk.js.LICENSE.txt",
+    "static/js/2.991604a8.chunk.js.LICENSE.txt": "/sonika/static/js/2.991604a8.chunk.js.LICENSE.txt",
     "static/media/e-profile.png": "/sonika/static/media/e-profile.ae94ddab.png",
     "static/media/e1.jpg": "/sonika/static/media/e1.11825ab6.jpg",
     "static/media/e10.jpg": "/sonika/static/media/e10.f47d5d63.jpg",
@@ -54,10 +54,10 @@
     "static/media/myImage.png": "/sonika/static/media/myImage.bd80794f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d164975f.js",
+    "static/js/runtime-main.29c00107.js",
     "static/css/2.63147665.chunk.css",
-    "static/js/2.9cb04a33.chunk.js",
+    "static/js/2.991604a8.chunk.js",
     "static/css/main.daa67793.chunk.css",
-    "static/js/main.002b6972.chunk.js"
+    "static/js/main.e30b7886.chunk.js"
   ]
 }

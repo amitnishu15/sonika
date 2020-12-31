@@ -120,7 +120,7 @@ class Contact extends React.Component {
                         <ul>
                         <li>
                             <a
-                              href="https://www.linkedin.com/in/amit-jain-8396bb157/"
+                              href="https://www.facebook.com/profile.php?id=100002604443663"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sonika/precache-manifest.21f0137be780c8a1d55a87aff371708a.js"
+  "/sonika/precache-manifest.42614bb08ee0211d19dfdb50546dcc1a.js"
 );
 
 self.addEventListener('message', (event) => {
