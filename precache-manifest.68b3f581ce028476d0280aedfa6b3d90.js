@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7fab4db279086529955b1045a931ae1",
+    "revision": "67f479617e428cd81ce6975add662450",
     "url": "/sonika/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sonika/static/css/2.63147665.chunk.css"
   },
   {
-    "revision": "db3632836dc926ec3200",
+    "revision": "afea6079a0d5b831f0ff",
     "url": "/sonika/static/css/main.daa67793.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sonika/static/js/2.991604a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db3632836dc926ec3200",
-    "url": "/sonika/static/js/main.e30b7886.chunk.js"
+    "revision": "afea6079a0d5b831f0ff",
+    "url": "/sonika/static/js/main.f2f4fb2c.chunk.js"
   },
   {
     "revision": "5dd8553a3604ec7c08ca",
